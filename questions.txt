@@ -1,0 +1,96 @@
+Math | Easy | What is  15 + 27 ?
+Math | Easy | Solve:  72 \div 8 .
+Math | Easy | Simplify:  3 \times 4 + 5 .
+Math | Easy | What is the value of  2^3  (2 raised to the power of 3)?
+Math | Easy | What is  \frac{1}{2} + \frac{1}{4} ?
+Math | Medium | Solve for  x :  5x + 3 = 18 .
+Math | Medium | If a triangle has angles measuring  50^\circ  and  60^\circ , what is the measure of the third angle?
+Math | Medium | Simplify:  2(3x - 4) + 5 .
+Math | Medium | If the area of a square is 64 square units, what is the length of one side?
+Math | Medium | Write  0.75  as a fraction in simplest form.
+Math | Hard | Solve for  x :  2x - 4 = 3x + 1 .
+Math | Hard | A cylinder has a radius of 3 cm and a height of 5 cm. What is its volume? (Use  \pi = 3.14 ).
+Math | Hard | Factorize:  x^2 - 9 .
+Math | Hard | Solve:  \frac{3}{4}x + 2 = 5 .
+Math | Hard | If a car travels 120 miles in 3 hours, how far will it travel in 7 hours at the same speed?
+
+Physics | Easy | What is the speed of an object that travels 60 meters in 3 seconds?
+Physics | Easy | What is the force exerted by an object with a mass of 5 kg accelerating at  2 \, \text{m/s}^2 ? (Use  F = ma ).
+Physics | Easy | What is the unit of energy in the International System of Units (SI)?
+Physics | Easy | If a ball is dropped, what force causes it to fall toward the ground?
+Physics | Easy | What is the formula to calculate the work done when a force is applied to move an object over a distance?
+Physics | Medium | A car accelerates from 10 m/s to 30 m/s in 5 seconds. What is its acceleration?
+Physics | Medium | A force of 50 N is used to push a box 10 meters. How much work is done on the box?
+Physics | Medium | If an object’s mass is doubled while the force acting on it remains the same, what happens to its acceleration?
+Physics | Medium | Calculate the potential energy of a 10 kg object raised to a height of 5 meters. (Use  g = 9.8 \, \text{m/s}^2 ).
+Physics | Medium | What is the power output of a machine that does 1000 J of work in 5 seconds?
+Physics | Hard | A person pulls a box with a force of 100 N at an angle of  30^\circ  to the horizontal. How much work is done in moving the box 5 meters?
+Physics | Hard | A 2 kg object is moving at a velocity of 10 m/s. What is its kinetic energy?
+Physics | Hard | A sound wave travels 340 meters in 1 second. What is the frequency of the wave if its wavelength is 2 meters?
+Physics | Hard | What is the gravitational force between two 10 kg masses separated by a distance of 2 meters? (Use  G = 6.67 \times 10^{-11} \, \text{Nm}^2/\text{kg}^2 ).
+Physics | Hard | A pendulum swings back and forth completing 20 oscillations in 10 seconds. What is its frequency and period?
+
+Chemistry | Easy | What is the chemical symbol for water?
+Chemistry | Easy | What is the pH of a neutral solution?
+Chemistry | Easy | What state of matter has a definite volume but no definite shape?
+Chemistry | Easy | What is the chemical symbol for oxygen?
+Chemistry | Easy | What is the boiling point of water in degrees Celsius at standard atmospheric pressure?
+Chemistry | Medium | What is the difference between an element and a compound?
+Chemistry | Medium | How many protons does an atom of carbon have?
+Chemistry | Medium | Balance the chemical equation:  H_2 + O_2 \rightarrow H_2O .
+Chemistry | Medium | What is the atomic mass of an element with 11 protons, 12 neutrons, and 11 electrons?
+Chemistry | Medium | What is the role of a catalyst in a chemical reaction?
+Chemistry | Hard | Calculate the number of moles in 44 grams of carbon dioxide (CO₂). (Molar mass of CO₂ = 44 g/mol).
+Chemistry | Hard | What is the empirical formula of a compound with 40% sulfur and 60% oxygen by mass?
+Chemistry | Hard | If 2 liters of gas are at a pressure of 1 atmosphere, what will the volume be if the pressure is increased to 2 atmospheres (at constant temperature)?
+Chemistry | Hard | Describe the difference between covalent and ionic bonding.
+Chemistry | Hard | What volume does 1 mole of an ideal gas occupy at standard temperature and pressure (STP)?
+
+Biology | Easy | What is the process by which plants make their own food using sunlight?
+Biology | Easy | What is the basic unit of life in all living organisms?
+Biology | Easy | What organ in the human body is responsible for pumping blood?
+Biology | Easy | Which gas do humans inhale to survive?
+Biology | Easy | What is the function of roots in a plant?
+Biology | Medium | What is the difference between prokaryotic and eukaryotic cells?
+Biology | Medium | Name the organelle in plant cells responsible for photosynthesis.
+Biology | Medium | What is the role of the circulatory system in the human body?
+Biology | Medium | Define the term “ecosystem.”
+Biology | Medium | What is the function of white blood cells in the human body?
+Biology | Hard | Explain how genetic traits are passed from parents to offspring.
+Biology | Hard | Describe the process of cellular respiration and its importance to living organisms.
+Biology | Hard | What is the difference between mitosis and meiosis?
+Biology | Hard | How do mutations in DNA affect an organism?
+Biology | Hard | What is the role of nitrogen-fixing bacteria in the nitrogen cycle?
+
+CS | Easy | What does CPU stand for?
+CS | Easy | What is the primary function of an operating system?
+CS | Easy | What is the term for a set of instructions that a computer follows to perform a task?
+CS | Easy | What is the name of the device used to input text into a computer?
+CS | Easy | What does “www” stand for in a web address?
+CS | Medium | What is the difference between hardware and software?
+CS | Medium | Define the term “algorithm.”
+CS | Medium | What is the function of RAM in a computer?
+CS | Medium | What does HTML stand for, and what is it used for?
+CS | Medium | Explain the difference between a file and a folder on a computer.
+CS | Hard | What is the difference between a compiler and an interpreter?
+CS | Hard | Explain the concept of binary and why computers use it.
+CS | Hard | What is the role of an IP address in computer networks?
+CS | Hard | Describe the purpose of encryption in cybersecurity.
+CS | Hard | What is recursion in programming, and provide an example of its use?
+
+Python | Easy | What does the print() function do in Python?
+Python | Easy | How do you create a variable in Python?
+Python | Easy | What is the result of the expression 5 + 3 * 2 in Python?
+Python | Easy | How do you write a comment in Python?
+Python | Easy | What is the correct syntax to create a list in Python?
+Python | Medium | How do you define a function in Python?
+Python | Medium | What is the difference between a for loop and a while loop in Python?
+Python | Medium | How do you convert a string “123” into an integer in Python?
+Python | Medium | What does the len() function do in Python?
+Python | Medium | How would you access the first item in a list called my_list?
+Python | Hard | What is the difference between a tuple and a list in Python?
+Python | Hard | How can you handle exceptions in Python?
+Python | Hard | What does the range() function do, and how is it used in loops?
+Python | Hard | Explain the concept of a dictionary in Python and how you access its values.
+Python | Hard | What does the lambda function do in Python, and when would you use it?
+
