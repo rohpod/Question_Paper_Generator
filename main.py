@@ -4,7 +4,7 @@ def main():
     print("Welcome to the Question Paper Generator!")
     
     # Opening the file
-    filename = "questions.txt"
+    filename = "example.txt"
     questions = openfile(filename)
     if not questions:
         return
